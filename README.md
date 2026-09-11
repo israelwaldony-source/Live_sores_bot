@@ -1,2 +1,2 @@
-# Live_sores_bot
+# Live_scores_bot
 Bot Telegram TouchlineT
